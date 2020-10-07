@@ -1,0 +1,20 @@
+{
+  "name": "chapter3",
+  "version": "1.0.0",
+  "description": "hi",
+  "main": "index.js",
+  "dependencies": {
+    "ganache-cli": "^6.10.1",
+    "solc": "^0.4.23",
+    "web3": "^0.20.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "hihi"
+  },
+  "keywords": [
+    "project"
+  ],
+  "author": "kyy",
+  "license": "ISC"
+}
